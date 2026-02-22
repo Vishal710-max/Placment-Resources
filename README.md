@@ -27,7 +27,6 @@ This repo contains a collection of important **PDFs and notes** related to campu
 ### 4. Coding Practice
 - C++ Coding Sheet
 - Java Coding Sheet
-- Python
 
 ### 5. Company Papers
 - Amazon Previous Year Papers
