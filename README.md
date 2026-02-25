@@ -31,7 +31,7 @@ This repo contains a collection of important **PDFs and notes** related to campu
 ### 5. Company Papers
 - Amazon Previous Year Papers
 - Microsoft Previous Year Papers
-- Infosys Previous 
+- Infos
 
 ### 6. Placement Guides
 - Roadmap To Placement
